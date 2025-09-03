@@ -1,4 +1,4 @@
-[![Colab](https://img.shields.io/badge/Open_in_Colab-f57c00?style=for-the-badge&logoColor=white&logo=googlecolab)](https://colab.research.google.com/drive/10-MGRcnfnXBF8LcqY8fNR0iRaIB9aq8Z?usp=drive_link)
+[![Colab](https://img.shields.io/badge/Open_in_Colab-f57c00?style=for-the-badge&logoColor=white&logo=googlecolab)](https://colab.research.google.com/drive/17GFspcy_H8stKykABjh94sVx3jSd5sAC?usp=drive_link)
 
 # A Scalable Deep Learning Solution for Multiclass Classification of Book Covers
 
