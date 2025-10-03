@@ -1,7 +1,7 @@
+[![coursePage](https://img.shields.io/badge/University_of_Milan-Algorithms_for_Massive_Datasets-dae1e7?style=for-the-badge&logoColor=white&labelColor=004082)](https://www.unimi.it/en/education/degree-programme-courses/2025/algorithms-massive-datasets) &nbsp;
 [![Colab](https://img.shields.io/badge/Open_in_Colab-f57c00?style=for-the-badge&logoColor=white&logo=googlecolab)](https://colab.research.google.com/drive/17GFspcy_H8stKykABjh94sVx3jSd5sAC?usp=drive_link)
 
 # A Scalable Deep Learning Solution for Multiclass Classification of Book Covers
-
 
 This project proposes a methodology to define, train and evaluate a CNN model, with the goal of classify books by category, given the relative cover image, placing emphasis on the scalability of the solution on large datasets.
 
